@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Falbum\u002F[id]","\u002Fartist\u002F[id]","\u002Faudiobook\u002F[id]","\u002Fepisode\u002F[id]","\u002Fgenre\u002F[slug]","\u002Fplaylist\u002F[id]","\u002Fplaylist\u002F[id]\u002Fedit","\u002Fradio\u002F[seed]","\u002Fshow\u002F[id]","\u002Ftrack\u002F[id]","\u002Fuser\u002F[id]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
